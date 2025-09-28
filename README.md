@@ -130,6 +130,7 @@ This project demonstrates the integration of **keypad input, LCD output, motor c
 ---
 
 📄 References
+
 Aruna Kommu, Naveen Kumar Uttakar, Raghavendra Rao Kanchi.
 Design and development of sensor-based mini projects for embedded system laboratory using ARM Cortex-M3 (LPC1768).
 
