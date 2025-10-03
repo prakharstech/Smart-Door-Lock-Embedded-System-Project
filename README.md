@@ -136,5 +136,5 @@ Design and development of sensor-based mini projects for embedded system laborat
 
 ## 📜 License
 
-This project is open-source and licensed under the **MIT License**.
+This academic project is open-source and licensed under the **MIT License**.
 See the [LICENSE](LICENSE) file for details.
